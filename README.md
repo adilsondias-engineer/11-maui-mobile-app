@@ -1,5 +1,15 @@
 # Project 11: .NET MAUI Mobile App - FPGA BBO Trading Terminal
 
+## Part of FPGA Trading Systems Portfolio
+
+This project is part of a complete end-to-end trading system:
+- **Main Repository:** [fpga-trading-systems](https://github.com/adilsondias-engineer/fpga-trading-systems)
+- **Project Number:** 11 of 30
+- **Category:** Mobile
+- **Dependencies:** Project 9 or 14 (Order Gateway - MQTT output)
+
+---
+
 **Platform:** Cross-platform (Android, iOS, Windows)
 **Technology:** .NET 9 MAUI, C#, MQTT Client (MQTTnet)
 **Status:** Complete - Ready to Build & Deploy
