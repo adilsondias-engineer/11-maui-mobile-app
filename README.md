@@ -22,14 +22,14 @@ A simple, clean mobile BBO (Best Bid/Offer) trading terminal that connects to th
 
 ### Key Features
 
-- ✅ MQTT consumer connecting to `192.168.0.2:1883`
-- ✅ Real-time BBO updates for all symbols (AAPL, TSLA, SPY, QQQ, GOOGL, MSFT, AMZN, NVDA)
-- ✅ Clean, simple UI inspired by ESP32 TFT display
-- ✅ Symbol selector with tap-to-view details
-- ✅ Color-coded bid (green), ask (red), spread (orange)
-- ✅ Live message counter and connection status
-- ✅ Cross-platform (Android, iOS, Windows)
-- ✅ **Android-compatible** (uses pure .NET MQTTnet library)
+-  MQTT consumer connecting to `192.168.0.2:1883`
+-  Real-time BBO updates for all symbols (AAPL, TSLA, SPY, QQQ, GOOGL, MSFT, AMZN, NVDA)
+-  Clean, simple UI inspired by ESP32 TFT display
+-  Symbol selector with tap-to-view details
+-  Color-coded bid (green), ask (red), spread (orange)
+-  Live message counter and connection status
+-  Cross-platform (Android, iOS, Windows)
+-  **Android-compatible** (uses pure .NET MQTTnet library)
 
 ---
 
@@ -256,7 +256,7 @@ Following the design principle to keep it basic (like ESP32):
 - ❌ No push notifications (keep it simple)
 - ❌ No portfolio tracking (just BBO display)
 - ❌ No historical charts (Java app has that)
-- ✅ Just clean, real-time BBO display
+-  Just clean, real-time BBO display
 
 This demonstrates:
 - C# / .NET MAUI proficiency
